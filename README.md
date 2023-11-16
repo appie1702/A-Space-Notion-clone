@@ -34,4 +34,4 @@ Key Features:
 git clone https://github.com/appie1702/A-Space-Notion-clone.git
 ```
 
-I have build this project with the help of tutorial made by the awesome content creator @AntonioErdeljac
+I have build this project with the help of tutorial made by the awesome content creator [@AntonioErdeljac](https://github.com/AntonioErdeljac)
